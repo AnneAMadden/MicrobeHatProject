@@ -2,7 +2,7 @@
 Goal: Using fashion to create microbial science communication and education hats
 
 Fashion can be used to spark conversations and engage curiosity- two keys to effective science communication. 
-The Microbe Hat Project was created in 2019 by microbiologist Anne A. Madden as a way of creatively engaging the public with the science of microbes.
+The Microbe Hat Project was created in 2019, by microbiologist Anne A. Madden as a way of creatively engaging the public with the science of microbes.
 
 The first sets of hats created featured scaled-up 3D printed microorganisms adorning derby-style hats. Each hat acted as a conversation starter to discuss the science of the microbe displayed, as well as introduce broader science themes such as global climate change, antibiotic resistance, and microbial ecology. These hats have been featured on the TED stage and have been accepted into the collections of the world's largest hat museums.
 
